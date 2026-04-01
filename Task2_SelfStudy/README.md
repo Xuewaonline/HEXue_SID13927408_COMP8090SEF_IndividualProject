@@ -9,6 +9,12 @@
 1. **Data Structure: Graph** - Undirected, Directed, and Weighted Graph Introductions and Implementations
 2. **Algorithm: Cocktail Sort** - Cocktail Sort Key Characteristics, Possible Applications, Introductions and Implementations
 
+## 📹 Video Link
+https://www.youtube.com/watch?v=1EdxCD77W2k&t=150s
+
+## 🔗 GitHub Repository
+https://github.com/Xuewaonline/HEXue_13927408_COMP8090SEF_IndividualProject/tree/main/Task2_SelfStudy
+
 ## 📄 Files
 
 | File                                              | Description                                                     |
@@ -87,8 +93,9 @@ What will demonstrate:
 - 5 demonstration examples showing different cases
 - Examples with numbers and strings
 
-## Video Link
-https://www.youtube.com/watch?v=1EdxCD77W2k&t=150s
+## 📖 References
+- **Graph Representation**
+https://studyglance.in/ds/display.php?tno=33&topic=Graph-Representation
 
-## GitHub Repository
-https://github.com/Xuewaonline/HEXue_13927408_COMP8090SEF_IndividualProject/tree/main/Task2_SelfStudy
+- **Cocktail Sort Steps**
+https://www.educba.com/cocktail-sort/
