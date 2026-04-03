@@ -8,7 +8,7 @@
 
 ## 🎤 Topics
 SmartPET 🐱🐶 - Pet Shop Management System
-![](/Users/hexue/Documents/8090project/HEXue_SID13927408_COMP8090SEF_IndividualProject/Task1_OOP_App/README_Img/SmartPET.jpg)
+![img.png](img.png)
 
 ## 📹 Video Link
 https://www.youtube.com/watch?v=SWd6C8hPUxs
