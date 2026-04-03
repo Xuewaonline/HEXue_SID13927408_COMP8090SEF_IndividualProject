@@ -17,12 +17,14 @@ https://github.com/Xuewaonline/HEXue_13927408_COMP8090SEF_IndividualProject/tree
 
 ## 📄 Files
 
-| File                                              | Description                                                     |
-|---------------------------------------------------|-----------------------------------------------------------------|
-| `[Task2]_HEXue_13927408_Self_Study_Report.pdf`    | Study Report of Task 2                                          |
-| `[Task2]_HEXue_13927408_Self_Study_Video_PPT.pdf` | PPT of Self-study                                               |
-| `Data_Structures_Graph.py`                        | Graph Implementations (Undirected, Directed, Weighted)          |
+| File                                              | Description                                                    |
+|---------------------------------------------------|----------------------------------------------------------------|
+| `[Task2]_HEXue_13927408_Self_Study_Report.pdf`    | Study Report of Task 2                                         |
+| `[Task2]_HEXue_13927408_Self_Study_Video_PPT.pdf` | PPT of Self-study                                              |
+| `Data_Structures_Graph.py`                        | Graph Implementations (Undirected, Directed, Weighted)         |
 | `Algorithm_Cocktail_sort.py`                      | Cocktail Sort Implementations |
+| `README.md` | User guide  |
+
 
 ## 🧑‍🏫 Introductions
 
