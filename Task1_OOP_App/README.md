@@ -8,7 +8,7 @@
 
 ## 🎤 Topics
 SmartPET 🐱🐶 - Pet Shop Management System
-![img.png](img.png)
+![img.png](README_Img/img.png)
 
 ## 📹 Video Link
 https://www.youtube.com/watch?v=SWd6C8hPUxs
